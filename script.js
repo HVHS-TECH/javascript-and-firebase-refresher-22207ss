@@ -1,4 +1,3 @@
-
 // variables
 document.getElementById("welcomeMessage").innerText = "You've Connected The Javascript!";
 
